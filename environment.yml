@@ -1,0 +1,23 @@
+name: deep-learning-nlp
+
+channels:
+  - pytorch
+  - conda-forge
+
+dependencies:
+  - python=3.6
+  - numpy
+  - jupyter
+  - rise
+  - matplotlib
+  - dill
+  - pandas
+  - pytorch=1.0.0
+  - traitlets
+  - scikit-learn
+  - tqdm
+  - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
+  - google-cloud-bigquery
+  - requests
+  - nltk
